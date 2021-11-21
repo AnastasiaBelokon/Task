@@ -1,4 +1,4 @@
-package ua.sumdu.j2se.Belokon.tasks;
+package ua.sumdu.j2se.belokon.tasks;
 
 public class Main
 {
